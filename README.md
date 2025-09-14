@@ -13,21 +13,21 @@
 
 ## 📂 공통 과제 (Common Core Projects)
 
-| Circle |    Project    |     폴더명      | Description                                   |
-| :----: | :-----------: | :-------------: | :-------------------------------------------- |
-| 🥚 00  |     libft     |     `libft`     | C 언어 기반의 개인 라이브러리 (glibc) 제작    |
-| 🐥 01  | get_next_line | `get_next_line` | 파일 디스크립터 기반의 라인 입력 함수 구현    |
-| 🐤 01  |   ft_printf   |   `ft_printf`   | C 언어의 `printf` 함수 구현                   |
-| 🐣 01  |  Born2beRoot  |  `born2beroot`  | VirtualMachine & Debian 기반 웹 아키텍쳐 실습 |
-| 🐥 02  |    so_long    |    `so_long`    | MiniLibx 그래픽 라이브러리를 활용한 2D 게임   |
-| 🐤 02  |   push_swap   |   `push_swap`   | 문제 상황을 충족하는 정렬 알고리즘            |
-| 🐣 02  |   minitalk    |   `minitalk`    | 시그널을 활용한 프로세스 간 통신              |
-| 🐥 03  | philosophers  | `philosophers`  | 멀티스레딩 & 동기화 문제: 식사하는 철학자     |
-| 🐤 03  |   minishell   |   `minishell`   | Bash를 모방한 미니 쉘 구현                    |
-| 🦊 04  |     cub3D     |     `cub3d`     | 레이캐스팅을 활용한 3D 게임                   |
-| 🦉 04  | net_practice  | `net_practice`  | IP 및 서브넷 기반 네트워크 망 구축 실습       |
-| 🦅 05  |  cpp_modules  |  `cpp_modules`  | C++ 기본 문법, OOP, 템플릿, STL 기초          |
-| 🐺 05  |   inception   |   `inception`   | Docker 기반 웹 아키텍쳐 실습                  |
-| 🐉 05  |    ft_irc     |    `ft_irc`     | IRC protocol 기반의 chat server               |
+| Circle |    Project    | Type | Description                                   |
+| :----: | :-----------: | :--: | :-------------------------------------------- |
+| 🥚 00  |     libft     | SOLO | C 언어 기반의 개인 라이브러리 (glibc) 제작    |
+| 🐥 01  | get_next_line | SOLO | 파일 디스크립터 기반의 라인 입력 함수 구현    |
+| 🐤 01  |   ft_printf   | SOLO | C 언어의 `printf` 함수 구현                   |
+| 🐣 01  |  Born2beRoot  | SOLO | VirtualMachine & Debian 기반 웹 아키텍쳐 실습 |
+| 🐥 02  |    so_long    | SOLO | MiniLibx 그래픽 라이브러리를 활용한 2D 게임   |
+| 🐤 02  |   push_swap   | SOLO | 문제 상황을 충족하는 정렬 알고리즘            |
+| 🐣 02  |   minitalk    | SOLO | 시그널을 활용한 프로세스 간 통신              |
+| 🐥 03  | philosophers  | SOLO | 멀티스레딩 & 동기화 문제: 식사하는 철학자     |
+| 🐤 03  |   minishell   | TEAM | Bash를 모방한 미니 쉘 구현                    |
+| 🦊 04  |     cub3D     | TEAM | 레이캐스팅을 활용한 3D 게임                   |
+| 🦉 04  | net_practice  | SOLO | IP 및 서브넷 기반 네트워크 망 구축 실습       |
+| 🦅 05  |  cpp_modules  | SOLO | C++ 기본 문법, OOP, 템플릿, STL 기초          |
+| 🐺 05  |   inception   | SOLO | Docker 기반 웹 아키텍쳐 실습                  |
+| 🐉 05  |    ft_irc     | TEAM | IRC protocol 기반의 chat server               |
 
 ---

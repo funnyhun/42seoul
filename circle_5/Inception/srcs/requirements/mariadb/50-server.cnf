@@ -1,0 +1,4 @@
+[server]
+[mysqld]
+user = mysql
+[mariadb]
